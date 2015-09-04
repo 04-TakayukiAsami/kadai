@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+body{
+    font-size:1000px;
+    width:960px;
+    margin:0 auto;
+    background-color: grey;
+}
+
+.top{
+    width : 900px;
+    height: 30px;
+    background-color: aquamarine;
+    background-image: url(../2006derby.jpg);
+    
+    
+}
+
+.inner{
+    width : 900px;
+    background-color: beige;
+    
+}
+
+.forms{
+    width: 300px;
+    margin: 0 auto;
+    
+}
+dd,textarea{
+    padding-bottom: 20px;
+    padding-left:15px;
+}
+
+textarea{
+    padding-left:15px;
+}
+
+#btn{
+    margin:15px 0px;
+    background: url(../send.png);
+}
